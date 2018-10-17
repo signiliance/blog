@@ -6,4 +6,4 @@
 
 
 #### git相关
-* [合并多次commit提交]()
+* [合并多次commit提交](https://github.com/signiliance/blog/blob/master/git%E7%9B%B8%E5%85%B3/%E5%90%88%E5%B9%B6%E5%A4%9A%E6%AC%A1commit%E6%8F%90%E4%BA%A4.md)
